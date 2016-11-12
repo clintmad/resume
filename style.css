@@ -1,0 +1,40 @@
+
+.name{
+    font-family: 'Ribeye Marrow', cursive;
+}
+.side{
+    background-color: #00695C;
+    height: 900px;
+    color: white;
+}
+.main{
+    padding-left: 30px
+}
+.count-bar{
+    background-color: #004D40;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    line-height: 30px;
+    border-radius: 4px;
+}
+.logo{
+    width: 75px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.go-logo{
+    width: 200px;
+    margin-left: -20px;
+}
+.army-logo{
+    width: 75px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.links{
+    font-size: 50px;
+    padding: 10px;
+}
+.skills{
+    padding-left: 20px;
+}
