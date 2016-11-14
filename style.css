@@ -2,6 +2,9 @@
 .name{
     font-family: 'Ribeye Marrow', cursive;
 }
+.email{
+    color:white;
+}
 .side{
     background-color: #00695C;
     height: 900px;
